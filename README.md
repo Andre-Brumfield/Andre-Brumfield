@@ -1,8 +1,7 @@
 - 👋 Hi, my name is Andre Brumfield. Welcome, as I will hopefully soon be able to have some work for myself soon. 
-- 👀 I’m interested in becoming a full-stack developer, as I'll eventually be open to contributing to projects 
-- 🌱 I’m currently sharpening my skills in HTML/CSS/JAVASCRIPT/PYTHON/DJANGO/JAVA/C/C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in becoming a full-stack developer, and aim to meet others with similar aspirations!
+- 💞️ I’m looking to collaborate on group projects to network and sharpen skillsets with fellow developers alike!
+- 📫 You can reach me on LinkedIn via: https://www.linkedin.com/in/andre-brumfield/
 
 <!---
 Andre-Brumfield/Andre-Brumfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
